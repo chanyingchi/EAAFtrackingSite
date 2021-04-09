@@ -13,10 +13,6 @@ languages:
     contentDir: content/en
     title: EAAF Shorebird Tracking Group
     weight: 1
-  fr:
-    contentDir: content/fr
-    title: EAAF Shorebird Tracking Group
-    weight: 2
 sitemap:
   changefreq: monthly
   filename: sitemap.xml

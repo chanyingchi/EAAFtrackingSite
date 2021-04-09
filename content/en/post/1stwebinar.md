@@ -12,18 +12,23 @@ In the first webinar on 13 April 2021, we have invited speakers from all parts o
 Schedule (GMT +12)
 
 18:30 Ginny Chan
+
 **Introduction and welcome**
 
 18:35 Brad Woodworth (University of Queensland)
+
 **Differential population trends are linked to migratory connectivity in an Endangered shorebird**
 
 18:50 Delip (Bisharga) Das (Jagannath University)
+
 **Uncovering international connections of Eurasian Curlew in Bangladesh: a project update**
 
 19:00 Bingrun (Drew) Zhu (University of Groningen/ Beijing Normal University)
+
 **Tracking the annual cycle of the Bohai Black-tailed Godwits**
 
 19:15 Rick Lanctot (U.S. Fish and Wildlife Service)
+
 **The role of shorebird movement studies in advancing shorebird conservation in North America**
 
 19:30 **Discussion**
