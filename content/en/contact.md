@@ -1,5 +1,5 @@
 ---
-description: We'd love to hear from you
+description: To join our mailing list, please fill in this form.
 featured_image: images/notebook.jpg
 menu: main
 omit_header_text: true
@@ -7,7 +7,6 @@ title: Contact
 type: page
 ---
 
-
-This is an example of a custom shortcode that you can put right into your content. You will need to add a form action to the the shortcode to make it work. Check out [Formspree](https://formspree.io/) for a simple, free form service. 
+Feel free to contact us.
 
 {{< form-contact action="https://example.com"  >}}

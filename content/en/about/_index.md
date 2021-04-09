@@ -1,10 +1,16 @@
 ---
-description: 'A few years ago, while visiting or, rather, rummaging about Notre-Dame,
-  the author of this book found, in an obscure nook of one of the towers, the following
-  word, engraved by hand upon the wall: —ANANKE.'
-featured_image: ""
+description: ''
+featured_image: ''
 title: About
 ---
-{{< figure src="/images/Victor_Hugo-Hunchback.jpg" title="Illustration from Victor Hugo et son temps (1881)" >}}
+{{< figure src="/images/bartailedgodwit.jpg" title="" >}}
 
-_The Hunchback of Notre-Dame_ (French: _Notre-Dame de Paris_) is a French Romantic/Gothic novel by Victor Hugo, published in 1831. The original French title refers to Notre Dame Cathedral, on which the story is centered. English translator Frederic Shoberl named the novel The Hunchback of Notre Dame in 1833 because at the time, Gothic novels were more popular than Romance novels in England. The story is set in Paris, France in the Late Middle Ages, during the reign of Louis XI.
+This group is set up in the beginning of 2021 with the following objectives:
+<br>
+1.	establish group membership and tracking project directory to determine existing work occurring within the EAAF,
+
+2.	establish and maintain a website to orchestrate the group’s knowledge and activities,
+
+3.	coordinate/lead on-line meetings to facilitate exchange of ideas and techniques, promote collaborations between researchers, and between researchers and conservation organizations, and
+
+4.	garner support to projects and initiatives that promote shorebird conservation in the EAAF using science-based tracking information.

@@ -11,11 +11,11 @@ enableRobotsTXT: yes
 languages:
   en:
     contentDir: content/en
-    title: My blog
+    title: EAAF Shorebird Tracking Group
     weight: 1
   fr:
     contentDir: content/fr
-    title: Mon blogue
+    title: EAAF Shorebird Tracking Group
     weight: 2
 sitemap:
   changefreq: monthly
