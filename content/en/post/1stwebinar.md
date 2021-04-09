@@ -1,18 +1,18 @@
 ---
 date: "2021-04-10T00:00:00+8:00"
 description: See you on Zoom or youtube!
-featured_image: /images/trackEAAFwebinar1.jpg
+featured_image: /images/Drew-blackwit.jpg
 tags:
 - webinar
 title: 'First Webinar'
 ---
+![Webinar poster](/images/trackEAAFwebinar1.jpg)
 
 In the first webinar on 13 April 2021, we have invited speakers from all parts of our flyway.
 
 Schedule (GMT +12)
 
 18:30 Ginny Chan
-
 **Introduction and welcome**
 
 18:35 Brad Woodworth (University of Queensland)
