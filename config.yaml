@@ -1,5 +1,5 @@
-title: Notre-Dame de Paris
-baseURL: https://example.com
+title: East Asian-Australasian Flyway Shorebird Tracking Group
+baseURL: https://trackeaaf.netlify.app/
 languageCode: en-us
 theme: gohugo-theme-ananke
 resourceDir: ../resources
@@ -23,19 +23,19 @@ sitemap:
   priority: 0.5
 params:
   background_color_class: bg-black
-  description: The last theme you'll ever need. Maybe.
+  description: Welcome to the website of the EAAF Shorebird Tracking Group
   facebook: ''
   favicon: ''
-  featured_image: /images/gohugo-default-sample-hero-image.jpg
+  featured_image:''
   github: ''
   gitlab: ''
   instagram: ''
   linkedin: ''
   mastodon: ''
-  recent_posts_number: 2
+  recent_posts_number: 1
   rss: ''
   site_logo: ''
   slack: ''
   stackoverflow: ''
-  twitter: https://twitter.com/GoHugoIO
+  twitter: ''
   youtube: ''
