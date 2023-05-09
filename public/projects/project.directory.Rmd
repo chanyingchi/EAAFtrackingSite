@@ -1,0 +1,58 @@
+---
+title: "East Asian-Australasian Flyway Shorebird Tracking Projects Directory"
+
+date: "17 Feb 2021"
+output: html_document
+
+knit: (function(input_file, encoding) {
+  out_dir <- 'docs';
+  rmarkdown::render(input_file,
+ encoding=encoding,
+ output_file=file.path(dirname(input_file), out_dir, 'index.html'))})
+
+---
+This page is in development. Official release is in May 2021
+
+To add your project, please fill in this form [here.](https://form.jotform.com/210225083733043)
+
+
+***
+
+## Shorebird Tracking projects in the EAAF
+
+```{r include=FALSE}
+
+library(readxl)
+datapath<-('C:/Users/chan/work/EAAF tracking group/')
+ d.project<-
+      read_excel(paste(datapath,'d.project.xlsx',sep=''),col_types=c(rep( "guess",6),'numeric','numeric',rep( "guess",5)))
+ 
+ source('C:/Users/chan/work/EAAF tracking group/create.map.R')
+ 
+   m<-create.map(d.project,10)
+
+```
+
+```{r echo=FALSE, fig.height = 7}
+m
+```
+
+
+List of tracking projects:
+
+```{r echo=FALSE, layout="l-body-outset", warning=FALSE}
+library(DT)
+d<-d.project
+dt<-data.frame(Species=d$species,
+               Tracking.Period=paste(d$start.year,'-',d$end.year,sep=''),
+               Tag.Type=d$tag.type,
+               Tagging.Location=paste( "<b>",d$site.name,'</b>, ',d$country,sep=''),
+               Organisation=paste(d$org, ": <a href=", d$url,">", 'Project website', "</a>",sep=''),
+               Contact=paste(" <a href='mailto:",d$contact.email,"'>",d$contact.name, "</a>",sep=''),
+                Publications=d$publications,
+stringsAsFactors =F)
+r<-which(is.na(d$url))
+
+dt$Organisation[r]<-d$org[r]
+datatable(dt, escape = FALSE)
+```

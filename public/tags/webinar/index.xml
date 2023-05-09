@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>webinar on EAAF Shorebird Tracking Group</title>
+    <link>https://trackeaaf.netlify.app/tags/webinar/</link>
+    <description>Recent content in webinar on EAAF Shorebird Tracking Group</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://trackeaaf.netlify.app/tags/webinar/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Webinar</title>
+      <link>https://trackeaaf.netlify.app/post/1stwebinar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://trackeaaf.netlify.app/post/1stwebinar/</guid>
+      <description>In the first webinar on 13 April 2021, we have invited speakers from all parts of our flyway.
+Schedule (GMT +6/GMT +12)
+12:30/18:30 Ginny Chan Introduction and welcome
+12:35/18:35 Rick Lanctot (U.S. Fish and Wildlife Service)
+The role of shorebird movement studies in advancing shorebird conservation in North America
+12:50/18:50 Bingrun (Drew) Zhu (University of Groningen)
+Tracking the annual cycle of the Bohai Black-tailed Godwits
+13:05/19:05 Delip (Bisharga) Das (Jagannath University)</description>
+    </item>
+    
+  </channel>
+</rss>
